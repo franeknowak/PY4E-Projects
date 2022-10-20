@@ -5,11 +5,6 @@ Project 1: "Arithmetic Formatter"
   Function that arranges simple mathematical calculations in a vertical view. To run just call the function and as parameters type the equations e.g.:
   Input:
     arithmetic_arranger(["2501 + 242", "12 - 121", "4 + 1", "12 - 0", "10 - 2322"], True)
-  Return:
-        2501       12      4      12        10    
-      +  242    - 121    + 1    -  0    - 2322
-      ------    -----    ---    ----    ------
-        2743     -109      5      12     -2312
        
   You can add or remove True parameter to show or hide the solutions to the equations.
   More information about the requirements here: github.com/UCLAIS/ml-tutorials-season-3
