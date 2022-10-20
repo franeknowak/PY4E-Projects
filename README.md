@@ -3,6 +3,7 @@ Programs/Functions I've written for "Scientific Computing with Python" course
 
 Project 1: "Arithmetic Formatter"
   Function that arranges simple mathematical calculations in a vertical view. To run just call the function and as parameters type the equations e.g.:
+  
   Input:
     arithmetic_arranger(["2501 + 242", "12 - 121", "4 + 1", "12 - 0", "10 - 2322"], True)
        
